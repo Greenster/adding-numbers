@@ -1,6 +1,6 @@
-#Java Project
+#Adding Numbers
 
-*Java Project which contains a simple Java Application*
+* Application which add two numbers given to user*
 
 * Java 7
 * Eclipse
